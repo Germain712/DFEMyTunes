@@ -22,6 +22,34 @@ public class Artist {
 	private String album;
 	
 	private String genre;
+	
+	
+	public Artist() {}
+	
+
+	public Artist(String title, String artistName, String album, String genre) {
+		super();
+		this.title = title;
+		this.artistName = artistName;
+		this.album = album;
+		this.genre = genre;
+	}
+		
+		
+		public Artist(long id, String title, String artistName, String album, String genre) {
+			super();
+			this.id = id;
+			this.title = title;
+			this.artistName = artistName;
+			this.album = album;
+			this.genre = genre;
+		
+		
+	}
+
+
+
+
 
 	public long getId() {
 		return id;
