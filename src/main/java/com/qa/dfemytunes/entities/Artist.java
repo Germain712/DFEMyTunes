@@ -114,6 +114,4 @@ public class Artist {
 		this.genre = genre;
 	}
 	
-	
-
 }
