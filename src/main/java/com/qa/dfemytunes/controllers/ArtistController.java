@@ -20,6 +20,8 @@ public class ArtistController {
 	
 	private ArtistService service;
 	
+	
+	
 	public ArtistController(ArtistService service) {
 		this.service = service;
 }
