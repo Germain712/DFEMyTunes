@@ -1,6 +1,7 @@
 # DFEMyTunes
 
 1. WHY ARE WE DOING THIS?
+    I am doing this project to show that I have some basic understanding of how to create/build a functional API.
 
 2. HOW I EXPECTED THE CHALLENGE TO GO?
 
