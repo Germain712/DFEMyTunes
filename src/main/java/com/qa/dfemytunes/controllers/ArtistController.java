@@ -24,7 +24,7 @@ public class ArtistController {
 		this.service = service;
 	}
 
-	@GetMapping("/getAll")
+	@GetMapping("/readAll")
 	public List<Artist> readAll() {
 		return this.service.readAll();
 	}

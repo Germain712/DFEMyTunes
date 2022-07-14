@@ -1,0 +1,10 @@
+DROP TABLE IF EXISTS `artist`;
+
+CREATE TABLE `artist` (
+	`id` BIGINT AUTO_INCREMENT,
+	`title` VARCHAR(255) NOT NULL,
+	`artist_name` VARCHAR(255) NOT NULL,
+	`album` VARCHAR(255),
+	`genre` VARCHAR(255),
+	PRIMARY KEY(`id`)
+)
