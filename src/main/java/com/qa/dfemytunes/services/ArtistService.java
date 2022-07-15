@@ -6,10 +6,6 @@ import org.springframework.stereotype.Service;
 
 import com.qa.dfemytunes.entities.Artist;
 import com.qa.dfemytunes.repos.ArtistRepo;
-import org.springframework.*;
-import org.springframework.stereotype.Service;
-import com.qa.dfemytunes.entities.Artist;
-import com.qa.dfemytunes.repos.ArtistRepo;
 
 @Service
 public class ArtistService {
