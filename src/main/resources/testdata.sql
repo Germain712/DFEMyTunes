@@ -1,0 +1,1 @@
+INSERT INTO `artist` (`title`, `artist_name`, `album`, `genre`) VALUES ('Vogue', 'Madonna', 'The Immaculate Collection', 'Pop');
