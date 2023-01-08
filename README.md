@@ -2,7 +2,7 @@
 
 ## _WHY ARE WE DOING THIS?_
 
-After my 12 weeks of brain busting bootcamp training, me and the other students had five days to complete our individual practical examination project, which was ultimately an encapsulation of all the concepts from our core training modules. This included utilising Agile & Project Management, Databases & Cloud Fundamentals, Programming Fundamentals, API Development, and lastly Automated Testing.
+After 12 weeks of brain busting bootcamp training, me and the other students had five days to complete our individual practical examination project, which was ultimately an encapsulation of all the concepts from our core training modules over this period. This included utilising Agile & Project Management, Databases & Cloud Fundamentals, Programming Fundamentals, API Development, and lastly Automated Testing.
 
 ## _HOW I EXPECTED THE CHALLENGE TO GO?_
 
@@ -18,10 +18,6 @@ Nethertheless I am very happy with what I have learned this year, considering I 
 ## _POSSIBLE IMPROVEMENTS FOR FUTURE REVISIONS OF THE PROJECT?_
 
 Some time in the future I would like to come back to this project and polish it up a little bit more to make it more dynamic.
-
-## _LINK TO JIRA BOARD_ ⇣
-
-https://germain712.atlassian.net/
 
 ---
 
@@ -42,3 +38,9 @@ https://germain712.atlassian.net/
 ![Swagger API documentantion](Screenshots%20For%20Project/Screenshot%202022-07-15%20Swagger.png)
 
 [def]: Screenshots%20For%20Project/Screenshot%202022-07-15%20Connecting%20To%20H2%20Database.png
+
+---
+
+## _LINK TO JIRA BOARD_ ⇣
+
+https://germain712.atlassian.net/
