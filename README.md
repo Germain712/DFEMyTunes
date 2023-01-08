@@ -1,6 +1,5 @@
 # DFEMyTunes - Software Developement Bootcamp Final Project
 
-
 ## _WHY ARE WE DOING THIS?_
 
 After my 12 weeks of brain busting bootcamp training, me and the other students had five days to complete our individual practical examination project, which was ultimately an encapsulation of all the concepts from our core training modules. This included utilising Agile & Project Management, Databases & Cloud Fundamentals, Programming Fundamentals, API Development, and lastly Automated Testing.
@@ -17,7 +16,25 @@ On one hand I was satisfied and very pleased that I had passed, but on the other
 Nethertheless I am very happy with what I have learned this year, considering I knew little to nothing this time last year. The bootcamp I did, as well as my self-taught learning has given me a base understanding of how to use some of these digital tools and technologies, both individually and together to make and produce wonderful and useful products.
 
 ## _POSSIBLE IMPROVEMENTS FOR FUTURE REVISIONS OF THE PROJECT?_
+
 Some time in the future I would like to come back to this project and polish it up a little bit more to make it more dynamic.
 
 ## _LINK TO JIRA BOARD_ ⇣
+
 https://germain712.atlassian.net/
+
+---
+
+![Connecting to H2 database](Screenshots%20For%20Project/Screenshot%202022-07-15%20Connecting%20To%20H2%20Database.png%0D)
+
+---
+
+![Showing persistance to MySQL database](Screenshots%20For%20Project/Screenshot%202022-07-15%20Eclipse%20Sprin%20Boot%20Test%20Connecting%20To%20MySQL_Persistance.png)
+
+---
+
+![J Unit test - pass](Screenshots%20For%20Project/Screenshot%202022-07-15%20J%20Unit%20Test%20Pass.png)
+
+---
+
+![Swagger API documentantion](Screenshots%20For%20Project/Screenshot%202022-07-15%20Swagger.png)
