@@ -41,7 +41,7 @@ public class ArtistControllerTest {
 		String entryAsJSON = mapper.writeValueAsString(entry);
 
 		Artist result = new Artist("Vogue", "Madonna", "The Immaculate Collection", "Pop");
-		String resultAsJSON = mapper.writeValueAsString(result);
+		mapper.writeValueAsString(result);
 
 		mvc.perform(post("/artist/create").contentType(MediaType.APPLICATION_JSON).contentType(entryAsJSON));
 
@@ -65,7 +65,7 @@ public class ArtistControllerTest {
 	public void readByIdTest() throws Exception {
 
 		Artist entry = new Artist("Vogue", "Madonna", "The Immaculate Collection", "Pop");
-		String entryAsJSON = this.mapper.writeValueAsString(entry);
+		this.mapper.writeValueAsString(entry);
 
 		mvc.perform(get("/artist/readById").contentType(MediaType.APPLICATION_JSON));
 
@@ -77,7 +77,7 @@ public class ArtistControllerTest {
 		Artist entry = new Artist("Vogue", "Madonna", "The Immaculate Collection", "Pop");
 		String entryAsJSON = this.mapper.writeValueAsString(entry);
 
-		Artist result = new Artist("Vogue", "Madonna", "The Immaculate Collection", "Pop");
+		new Artist("Vogue", "Madonna", "The Immaculate Collection", "Pop");
 		mvc.perform(put("/artist/update/1").contentType(MediaType.APPLICATION_JSON).content(entryAsJSON));
 
 	}
